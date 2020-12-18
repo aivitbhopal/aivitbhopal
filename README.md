@@ -1,4 +1,7 @@
-### Hi there 👋
+### AI Divivision
+## VIT University, Bhopal
+
+This is the github account of AI Division VIT Bhopal
 
 <!--
 **aivitbhopal/aivitbhopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
